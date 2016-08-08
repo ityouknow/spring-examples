@@ -1,15 +1,11 @@
 package com.neo.domain;
 
 import java.io.Serializable;
-import java.text.DateFormat;
-import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
-import org.springframework.jdbc.datasource.init.DatabasePopulatorUtils;
 
 @Entity
 public class User implements Serializable {
