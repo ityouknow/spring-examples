@@ -12,7 +12,7 @@ SpringStudy
 - [spring-mybatis-mulidatasource-atomikos](https://github.com/ityouknow/spring-home/tree/master/spring-mybatis-mulidatasource-atomikos)：
 使用atomikos来处理多数据源的一致性事务
 
-- [spring-jedis](https://github.com/ityouknow/spring-home/tree/master/spring-jedis/spring-jedis)：
+- [spring-jedis-simple](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-simple)：
 封装对redis的增删改查以及对象的操作
 
-- [spring-jediscluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis/spring-jediscluster)：利用spring封装了对redis集群的操作
+- [spring-jedis-cluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis/spring-jedis-cluster)：利用spring封装了对redis集群的操作
