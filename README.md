@@ -5,7 +5,7 @@ SpringStudy
 
 
 
-- [spring4-mybatis3-simple](https://github.com/ityouknow/spring-home/tree/master/spring4-mybatis3-simple)：spring4+mybatis3的增删改差的例子
+- [spring4-mybatis3-simple](https://github.com/ityouknow/spring-home/tree/master/spring4-mybatis3-simple)：spring4+mybatis3的增删改查的例子
 
 - [spring-mybatis-mulidatasource](https://github.com/ityouknow/spring-home/tree/master/spring-mybatis-mulidatasource)：对mybaits的简单封装，方便简单的调用和多数据源的配置
 
