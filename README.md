@@ -15,4 +15,4 @@ SpringStudy
 - [spring-jedis-simple](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-simple)：
 封装对redis的增删改查以及对象的操作
 
-- [spring-jedis-cluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis/spring-jedis-cluster)：利用spring封装了对redis集群的操作
+- [spring-jedis-cluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-cluster)：利用spring封装了对redis集群的操作
