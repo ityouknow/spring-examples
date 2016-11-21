@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-jedis</artifactId>
+	<artifactId>spring-jedis-simple</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>spring-jedis</name>
+	<name>spring-jedis-simple</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -61,7 +61,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>spring-jedis</finalName>
+		<finalName>spring-jedis-simple</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

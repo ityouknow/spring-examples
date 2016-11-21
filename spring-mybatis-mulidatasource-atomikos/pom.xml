@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-mybatis-atomikos</artifactId>
+	<artifactId>spring-mybatis-mulidatasource-atomikos</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
-	<name>spring-mybatis-atomikos</name>
+	<name>spring-mybatis-mulidatasource-atomikos</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -107,7 +107,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>spring-mybatis-atomikos</finalName>
+		<finalName>spring-mybatis-mulidatasource-atomikos</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

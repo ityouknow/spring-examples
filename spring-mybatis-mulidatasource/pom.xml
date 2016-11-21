@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-mybatis</artifactId>
+	<artifactId>spring-mybatis-mulidatasource</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
-	<name>spring-mybatis</name>
+	<name>spring-mybatis-mulidatasource</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -77,7 +77,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>spring-mybatis</finalName>
+		<finalName>spring-mybatis-mulidatasource</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
