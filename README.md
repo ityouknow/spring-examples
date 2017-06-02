@@ -16,3 +16,11 @@ spring-home
 封装对redis的增删改查以及对象的操作
 
 - [spring-jedis-cluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-cluster)：利用spring封装了对redis集群的操作
+
+
+
+
+
+关注公众号：纯洁的微笑，了解最新文章
+
+![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
