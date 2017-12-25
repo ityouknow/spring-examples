@@ -17,6 +17,7 @@ Demo website：http://www.ityouknow.com/
 
 - [spring-jedis-cluster](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-cluster)：利用spring封装了对redis集群的操作
 
+- [spring-fastdsf](https://github.com/ityouknow/spring-home/tree/master/spring-jedis-cluster)：Spring 和 FastDFS集群操作的示例。
 
 
 
